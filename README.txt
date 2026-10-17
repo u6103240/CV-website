@@ -52,4 +52,4 @@ Extra
 
 I've made up all the content of the CV so it was easier to have more content to use as Education, Experience and the Portfolio. As well as the photo is not mine.
 
-Link: https://u6103240.github.io/CV-website/
+Figma link: https://www.figma.com/design/McSsOayrEmYJNtqn7lfvs2/Untitled?node-id=0-1&t=ZwUfxjvhHH6pJyNB-1
