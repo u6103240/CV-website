@@ -50,4 +50,4 @@ Finally, I added CSS media queries to adapt the layout to smaller screens. On mo
 
 Extra
 
-I've made up all the content of the CV so it was easier to have more content to use as Education, Experience and the Portfolio.
+I've made up all the content of the CV so it was easier to have more content to use as Education, Experience and the Portfolio. As well as the photo is not mine.
